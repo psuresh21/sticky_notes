@@ -20,4 +20,4 @@ python3 sticky_notes.py
 - need to install Tkinter 
 
 # Copyright & License
-© 2022 Suresh. P | Code released under MIT License
+© 2022 Suresh Pandiyan | Code released under MIT License
